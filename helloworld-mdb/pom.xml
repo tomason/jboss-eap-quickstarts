@@ -120,7 +120,8 @@
         </dependency>
         <dependency>
             <groupId>org.jboss.spec.javax.jms</groupId>
-            <artifactId>jboss-jms-api_2.0_spec</artifactId>
+            <artifactId>jboss-jms-api_1.1_spec</artifactId>
+            <version>1.0.1.Final-redhat-3</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
